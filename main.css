@@ -2,11 +2,17 @@ html{
    background-color: hsl(10, 10%, 100%); 
    font-family: Arial, Helvetica, sans-serif;
 }
-.plogo {
+.sgnn  {
     height: 25px;
-    width: 25px;
-    background-color: green;
-    border-radius: 50%;
+    width: 50px;
+    background-color: hsla(251, 100%, 49%, 0.973);
+    border-radius: 5%;
     text-justify:auto;
     display: inline-block;
+    color: blanchedalmond ;
+  }
+  
+  nav{
+   align-content: space-between;
+   text-align: right;
   }
