@@ -12,7 +12,21 @@ html{
     color: blanchedalmond ;
   }
   
-  nav{
+nav{
    align-content: space-between;
    text-align: right;
   }
+#glg
+  {
+   height:233px;
+   margin-top:89px;
+   padding-top: 109px;
+   width: 272;
+}
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  margin-top: 99px;
+  margin-bottom: 11px;
+}
